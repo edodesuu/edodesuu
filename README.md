@@ -6,7 +6,6 @@
 
   <p>
     <b>19 y.o. Software Engineer | Arch Linux Enthusiast | Analytical Mindset</b> <br/>
-    <i>"Vincere est Vivere" — To conquer is to live.</i>
   </p>
 
   <kbd>🧘 low cortisol only</kbd>
