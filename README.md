@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Header Section -->
+  <!-- Заголовок и анимированный эмодзи -->
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35" /> Hi, I'm Abdulaziz Muinjonov</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Telegram+Bot+Developer;Linux+Sysadmin+%26+DevOps;Cybersecurity+(Red+Team)+Enthusiast" alt="Typing SVG" />
@@ -13,14 +13,14 @@
 
   <br/><br/>
 
-  <!-- Contacts -->
+  <!-- Контакты -->
   <a href="https://t.me/vagabondideology" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/nocturnaldoto" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:твой-email@example.com">
+  <a href="mailto:edodesuu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -52,23 +52,6 @@
 <br/>
 <hr width="100%" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" width="25" /> Activity & Projects
-
-<div align="center">
-  <!-- Основная статистика (убрал лишние параметры для стабильности) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=edodesuu&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <br/>
-
-  <!-- Стрик (активность по дням) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edodesuu&theme=tokyonight&hide_border=true" />
-  
-  <br/>
-
-  <!-- Топ языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edodesuu&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 <br/>
 
 <details>
@@ -76,9 +59,9 @@
   <div align="left">
     <br/>
     <blockquote>
-      Студент Computer Science (19 лет). В разработке придерживаюсь спокойного и системного подхода. Моя основная специализация — проектирование архитектуры для Telegram-ботов с высокой нагрузкой (использую Python, PostgreSQL и Redis).
+      Студент Computer Science (19 лет). В разработке придерживаюсь спокойного и системного подхода. Моя основная специализация — проектирование архитектуры для Telegram-ботов (использую Python, PostgreSQL и Redis).
       <br/><br/>
-      Свободно чувствую себя в терминале Arch Linux, автоматизирую всё, что движется, и упаковываю проекты в Docker. В свободное время погружаюсь в теорию <b>Red Teaming</b> и исследую безопасность систем.
+      Свободно чувствую себя в терминале Arch Linux, автоматизирую процессы и работаю с контейнеризацией через Docker. В свободное время погружаюсь в теорию <b>Red Teaming</b> и исследую безопасность систем.
     </blockquote>
   </div>
 </details>
