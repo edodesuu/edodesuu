@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- Заголовок и динамический текст -->
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35" /> Hi, I'm Abdulaziz</h1>
+  <!-- Заголовок с анимированным эмодзи -->
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35" /> Hi, I'm Abdulaziz Muinjonov</h1>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Telegram+Bot+Developer;Linux+Sysadmin+%26+DevOps;Cybersecurity+(Red+Team)+Enthusiast" alt="Typing SVG" />
 
   <p>
@@ -8,12 +9,11 @@
     <i>"Vincere est Vivere" — To conquer is to live.</i>
   </p>
 
-  <!-- Статус -->
   <kbd>🧘 low cortisol only</kbd>
 
   <br/><br/>
 
-  <!-- Соцсети -->
+  <!-- Контакты -->
   <a href="https://t.me/vagabondideology" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -24,35 +24,64 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <br/><hr width="50%" /><br/>
-
-  <!-- Стек технологий через Skill Icons (более стильно) -->
-  <h3>🛠 Tech Stack</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,postgres,redis,docker,arch,linux,html,tailwind,js,react&theme=dark" />
-  </p>
-
-  <br/>
-
-  <!-- Статистика с исправленными ссылками -->
-  <h3>📊 Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=edodesuu&show_icons=true&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edodesuu&layout=compact&theme=transparent&title_color=3b82f6&text_color=ffffff&hide_border=true" alt="Langs" />
-
   <br/><br/>
-
-  <!-- Красивый русский блок -->
-  <details>
-    <summary><b>🇷🇺 Информация на русском</b></summary>
-    <div align="left">
-      <br/>
-      <blockquote>
-        <b>Муинжанов Абдулазиз Алишерович</b> <br/>
-        Студент Computer Science. Специализируюсь на разработке сложных архитектурных решений для Telegram (боты, автоматизация) и администрировании систем на базе Arch Linux. 
-        <br/><br/>
-        Фокус на <b>DevOps</b> и <b>Red Teaming</b>. Предпочитаю чистый код и спокойный, расчетливый подход к решению задач.
-      </blockquote>
-    </div>
-  </details>
+  <hr width="100%" />
 </div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> Tech Stack
+
+<div align="center">
+  <p><b>🚀 Specialist Level</b></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+
+  <p><b>⚙️ Intermediate Level</b></p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <p><b>🛡️ Enthusiast Level</b></p>
+  <img src="https://img.shields.io/badge/Red_Team-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GameDev-000000?style=for-the-badge&logo=unity&logoColor=white" />
+</div>
+
+<br/>
+<hr width="100%" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" width="25" /> Activity & Projects
+
+<div align="center">
+  <!-- Блок популярных репозиториев (замени repo1 и repo2 на названия своих лучших репо) -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edodesuu&repo=BotScan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edodesuu&repo=mahallas-uz&theme=tokyonight&hide_border=true" />
+  
+  <br/>
+
+  <!-- Общая статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=edodesuu&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <br/>
+
+  <!-- График вкладов -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edodesuu&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<details>
+  <summary><b>🇷🇺 Информация на русском</b></summary>
+  <div align="left">
+    <br/>
+    <blockquote>
+      <b>Муинжанов Абдулазиз Алишерович</b> <br/>
+      Студент Computer Science (19 лет). Специализируюсь на разработке сложных Telegram-ботов с использованием Python, PostgreSQL и Redis. 
+      Администрирую системы на базе Arch Linux и работаю с контейнеризацией через Docker.
+      <br/><br/>
+      Активно развиваюсь в <b>DevOps</b> и <b>Red Teaming</b>. Характеризую себя как спокойного и расчетливого разработчика.
+    </blockquote>
+  </div>
+</details>
