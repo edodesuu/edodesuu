@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Заголовок с анимированным эмодзи -->
+  <!-- Header Section -->
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35" /> Hi, I'm Abdulaziz Muinjonov</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Telegram+Bot+Developer;Linux+Sysadmin+%26+DevOps;Cybersecurity+(Red+Team)+Enthusiast" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
   <br/><br/>
 
-  <!-- Контакты -->
+  <!-- Contacts -->
   <a href="https://t.me/vagabondideology" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -55,33 +55,30 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" width="25" /> Activity & Projects
 
 <div align="center">
-  <!-- Блок популярных репозиториев (замени repo1 и repo2 на названия своих лучших репо) -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edodesuu&repo=BotScan&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edodesuu&repo=mahallas-uz&theme=tokyonight&hide_border=true" />
-  
-  <br/>
-
-  <!-- Общая статистика -->
+  <!-- Основная статистика (убрал лишние параметры для стабильности) -->
   <img src="https://github-readme-stats.vercel.app/api?username=edodesuu&show_icons=true&theme=tokyonight&hide_border=true" />
   
   <br/>
 
-  <!-- График вкладов -->
+  <!-- Стрик (активность по дням) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edodesuu&theme=tokyonight&hide_border=true" />
+  
+  <br/>
+
+  <!-- Топ языков -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edodesuu&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <details>
-  <summary><b>🇷🇺 Информация на русском</b></summary>
+  <summary><b>🇷🇺 Муинжанов Абдулазиз Алишерович</b></summary>
   <div align="left">
     <br/>
     <blockquote>
-      <b>Муинжанов Абдулазиз Алишерович</b> <br/>
-      Студент Computer Science (19 лет). Специализируюсь на разработке сложных Telegram-ботов с использованием Python, PostgreSQL и Redis. 
-      Администрирую системы на базе Arch Linux и работаю с контейнеризацией через Docker.
+      Студент Computer Science (19 лет). В разработке придерживаюсь спокойного и системного подхода. Моя основная специализация — проектирование архитектуры для Telegram-ботов с высокой нагрузкой (использую Python, PostgreSQL и Redis).
       <br/><br/>
-      Активно развиваюсь в <b>DevOps</b> и <b>Red Teaming</b>. Характеризую себя как спокойного и расчетливого разработчика.
+      Свободно чувствую себя в терминале Arch Linux, автоматизирую всё, что движется, и упаковываю проекты в Docker. В свободное время погружаюсь в теорию <b>Red Teaming</b> и исследую безопасность систем.
     </blockquote>
   </div>
 </details>
