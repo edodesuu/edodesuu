@@ -54,7 +54,7 @@
 <br/>
 
 <details>
-  <summary><b>🇷🇺 Муинжанов Абдулазиз Алишерович</b></summary>
+  <summary><b>🇷🇺 Привет, я CLAYMORE</b></summary>
   <div align="left">
     <br/>
     <blockquote>
