@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Заголовок и анимированный эмодзи -->
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35" /> Hi, I'm Abdulaziz Muinjonov</h1>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35" /> Hi, I'm CLAYMORE</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Telegram+Bot+Developer;Linux+Sysadmin+%26+DevOps;Cybersecurity+(Red+Team)+Enthusiast" alt="Typing SVG" />
 
